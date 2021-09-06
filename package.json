@@ -1,0 +1,25 @@
+{
+  "name": "javascript-practice",
+  "version": "1.0.0",
+  "description": "Basics javascript tutorials and examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/00amardeep/Javascript-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/00amardeep/Javascript-Practice/issues"
+  },
+  "homepage": "https://github.com/00amardeep/Javascript-Practice#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
